@@ -133,3 +133,4 @@ dmypy.json
 /pyproject.toml
 /replit.nix
 /.replit
+/.breakpoints
