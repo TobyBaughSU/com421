@@ -128,9 +128,13 @@ dmypy.json
 # Pyre type checker
 .pyre/
 
+# Pycharm files
+/.idea
+
 # replit
 /poetry.lock
 /pyproject.toml
 /replit.nix
 /.replit
 /.breakpoints
+venv/
